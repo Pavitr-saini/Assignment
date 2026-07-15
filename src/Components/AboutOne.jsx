@@ -33,7 +33,7 @@ const AboutOne = () => {
                     <img
                         src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=700"
                         alt="Meeting"
-                        className="w-80 h-80 md:w-[420px] md:h-[420px] object-cover rounded-full shadow-xl"
+                        className="w-72 h-72 sm:w-80 sm:h-80 md:w-[420px] md:h-[420px] object-cover rounded-full shadow-xl"
                     />
 
                     {/* Pink Shape */}

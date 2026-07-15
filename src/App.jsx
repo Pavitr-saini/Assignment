@@ -1,11 +1,11 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import AboutOne from "./components/AboutOne";
-import AboutTwo from "./components/AboutTwo";
-import Services from "./components/Services";
-import Testimonial from "./components/Testimonial";
-import Newsletter from "./components/Newsletter";
-import Footer from "./components/Footer";
+import Navbar from "./Components/Navbar";
+import Hero from "./Components/Hero";
+import AboutOne from "./Components/AboutOne";
+import AboutTwo from "./Components/AboutTwo";
+import Services from "./Components/Services";
+import Testimonial from "./Components/Testimonial";
+import Newsletter from "./Components/Newsletter";
+import Footer from "./Components/Footer";
 
 function App() {
   return (

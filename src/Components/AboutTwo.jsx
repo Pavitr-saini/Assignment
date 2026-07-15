@@ -13,7 +13,7 @@ const AboutTwo = () => {
                         <img
                             src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=700"
                             alt="Working"
-                            className="w-80 h-80 md:w-[420px] md:h-[420px] rounded-full object-cover shadow-xl"
+                            className="w-72 h-72 sm:w-80 sm:h-80 md:w-[420px] md:h-[420px] rounded-full object-cover shadow-xl"
                         />
 
                         {/* Green Shape */}
